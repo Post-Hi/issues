@@ -8,6 +8,7 @@ Post-Hi 是一个明信片慢社交平台，你可以通过明信片遇到有趣
 ## 内测人员名单
 
 1. AngeloFan
+2. [是琪琪子啦](https://www.icardyou.icu/userInfo/homePage?userId=40672)
 
 
 ## 公测人员名单
