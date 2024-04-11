@@ -18,3 +18,4 @@ Post-Hi 是一个明信片慢社交平台，你可以通过明信片遇到有趣
 3. [是琪琪子啦](https://www.icardyou.icu/userInfo/homePage?userId=40672)
 4. [⋆‧₊⁺言午*✰](https://www.icardyou.icu/userInfo/homePage?userId=41024)
 5. [Zz](https://www.icardyou.icu/userInfo/homePage?userId=41386)
+6. [君豪](https://www.icardyou.icu/userInfo/homePage?userId=41541)
