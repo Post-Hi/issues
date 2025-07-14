@@ -3,4 +3,4 @@ Post-Hi 是一个明信片慢社交平台，你可以通过明信片遇到有趣
 
 ## 使用说明
 
-在 [Issue](https://gitee.com/post-hi/issue/issues) 中创建。
+在 [Issue](https://gitee.com/post-hi/issue/issues) 中查看、评论、创建。
